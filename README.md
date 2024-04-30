@@ -1,2 +1,2 @@
-# ProyectoAdministraci-nLocal
-Un proyecto para administrar localmente algunas cosas del departamento de BIO-ORGANICA IUBO de la Universidad de La Laguna, realizado en mi tiempo en prácticas.
+# ProjectAdministrationLocal
+A project to locally manage some things from the BIO-ORGANIC IUBO department of the University of La Laguna, carried out during my time as an intern.
