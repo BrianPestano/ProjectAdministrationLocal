@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IUBO:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17907afa-6e56-42cf-8521-610ccf4efd0b" name="Changes" comment="control de excepciones realizado">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/CHM/AyudaIUBO.chm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmGrupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmGrupo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmPersonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmPersonalActualizar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/AdmPersonalActualizar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/Listado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/Listado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/MySQLConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/MySQLConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/iubo/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/iubo/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmGrupo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmGrupo.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmPersonal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmPersonal.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmPersonalActualizar.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/AdmPersonalActualizar.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/Listado.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/Listado.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/Principal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/Principal.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/iubo/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/iubo/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="022ca67c-9a0c-42ab-b8dd-e74197109aa1" />
+        <option name="url" value="https://github.com/BrianPestano/IUBO.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/com/example/iubo/hello-view.fxml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dPNfL6frOddYidlrlDqx4a5smU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Usuario/Documents/NetBeansProjects/IUBO/src/main/java/com/example/iubo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Brian/OneDrive/Escritorio&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brian\OneDrive\Escritorio\IUBO\src\main\resources\com\example\iubo\CHM" />
+      <recent name="C:\Users\Brian\OneDrive\Escritorio\IUBO\src\main\resources\com\example\iubo\Imagenes" />
+      <recent name="C:\Users\Usuario\Documents\NetBeansProjects\IUBO\src\main\resources\com\example\iubo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.iubo.HelloApplication" />
+      <module name="IUBO" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-21.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.iubo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appejecutable " type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.iubo.appejecutable" />
+      <module name="IUBO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IUBO.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/IUBO_jar/IUBO.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.appejecutable " />
+      <item itemvalue="JAR Application.IUBO.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="JAR Application.IUBO.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17907afa-6e56-42cf-8521-610ccf4efd0b" name="Changes" comment="" />
+      <created>1709905856607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709905856607</updated>
+    </task>
+    <task id="LOCAL-00001" summary="JAR ARREGLADO">
+      <option name="closed" value="true" />
+      <created>1710497413314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497413314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modificaciones">
+      <option name="closed" value="true" />
+      <created>1710497965952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497965952</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modificaciones en la administracion realizado listado y grupos">
+      <option name="closed" value="true" />
+      <created>1710763338634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710763338634</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modificaciones en la administracion realizado personal y actualizar">
+      <option name="closed" value="true" />
+      <created>1710839630669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710839630669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modificaciones en la administracion realizado personal y actualizar">
+      <option name="closed" value="true" />
+      <created>1710840160954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710840160954</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Proyecto administracion casi terminado, falta mejorar interfaces, control de excepciones y revision final">
+      <option name="closed" value="true" />
+      <created>1710840381155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710840381155</updated>
+    </task>
+    <task id="LOCAL-00007" summary="control de excepciones realizado">
+      <option name="closed" value="true" />
+      <created>1710843961907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843961907</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JAR ARREGLADO" />
+    <MESSAGE value="Modificaciones" />
+    <MESSAGE value="Modificaciones en la administracion realizado listado y grupos" />
+    <MESSAGE value="Modificaciones en la administracion realizado personal y actualizar" />
+    <MESSAGE value="Proyecto administracion casi terminado, falta mejorar interfaces, control de excepciones y revision final" />
+    <MESSAGE value="control de excepciones realizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="control de excepciones realizado" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
