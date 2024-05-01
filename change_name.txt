@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+change the name and put .gitignore
